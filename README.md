@@ -1,2 +1,2 @@
-# random_forests
-Learning and experimenting with Random Forests
+# Random Forests
+Learning and experimenting with Random Forests.
